@@ -1,0 +1,14 @@
+langchain
+langchain-openai
+langchain-community
+streamlit
+flask
+python-dotenv
+PyPDF2
+numpy
+pandas
+matplotlib
+seaborn
+ipykernel
+fpdf
+-e .

@@ -27,7 +27,7 @@ setup(
     packages=find_packages(),
     version='0.1.0',
     description='Generative AI Project: MCQ Generator using OpenAI, Langchain Streamlit',
-    author='Muhammad Adil Naeem',
-    author_email='madilnaeem0@gmail.com',
+    author='Ali Nawaz',
+    author_email='nawazktk99@gmail.com',
     install_requires=get_requirements('requirements.txt')
 )

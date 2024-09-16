@@ -10,7 +10,7 @@ pandas
 matplotlib
 seaborn
 ipykernel
-bs4
+beautifulsoup4
 fpdf
 python-docx
 -e .

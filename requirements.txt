@@ -11,4 +11,5 @@ matplotlib
 seaborn
 ipykernel
 fpdf
+python-docx
 -e .
